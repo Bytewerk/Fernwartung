@@ -19,7 +19,6 @@ config_lang = "de"
 
 # Import required libraries
 import sys
-from translation import t
 import translation
 import subprocess
 import os
